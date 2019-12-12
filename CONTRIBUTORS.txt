@@ -28,6 +28,7 @@ eQuality Technology - Greg Rundlett
 Freeform Solutions - Herb van den Dool
 Fuzion - Jitendra Purohit
 Ginkgo Street Labs - Frank Gómez
+GMCVO Databases - Jade Gaunt
 Hossein Amin
 JMA Consulting - Joe Murray, Monish Deb
 Johan Vervloet
